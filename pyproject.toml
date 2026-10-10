@@ -1,2 +1,2 @@
 [tool.vercel]
-entrypoint = "api/image.py:handler"
+entrypoint = "image:handler"
